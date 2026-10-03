@@ -38,6 +38,11 @@ location stays on your phone.
 Download the newest `kopidb.apk` from this page and install it over the top. You
 don't need to uninstall first, and your account and saved shops stay as they are.
 
+**Installed kopidb before 3 October 2026?** Uninstall the old app first. From
+v0.0.4 the app has a new identity, so the new version can't install over the old
+one: it either installs alongside it or your phone says the package conflicts.
+Your account and saved shops are kept online, so just sign in again.
+
 ## Something not working?
 
 Let us know what you were doing and what went wrong. A screenshot helps.
