@@ -23,20 +23,25 @@ the odd rough edge.
 
 You need an Android phone. There is no iPhone version yet.
 
-1. On your phone, open this page and tap **`kopidb.apk`** above, then tap
-   **Download** (or **View raw**).
+1. On your phone, tap
+   **[Download kopidb.apk](https://github.com/kopidb/kopidb-release/releases/latest/download/kopidb.apk)**.
+   This link always gets the newest version.
 2. Open the downloaded file.
 3. If your phone warns that it can't install apps from this source, tap
    **Settings**, allow it, then go back and tap **Install**.
 4. Open **kopidb** and sign in with your email. You'll be sent a code to enter.
+
+To check the download, compare `sha256sum kopidb.apk` with the SHA-256 in that
+version's [release notes](https://github.com/kopidb/kopidb-release/releases).
 
 The app asks for your location so it can show nearby shops on the map. Your
 location stays on your phone.
 
 ## Updating
 
-Download the newest `kopidb.apk` from this page and install it over the top. You
-don't need to uninstall first, and your account and saved shops stay as they are.
+Download the newest `kopidb.apk` with the link above and install it over the
+top. You don't need to uninstall first, and your account and saved shops stay as
+they are.
 
 **Installed kopidb before 3 October 2026?** Uninstall the old app first. From
 v0.0.4 the app has a new identity, so the new version can't install over the old
